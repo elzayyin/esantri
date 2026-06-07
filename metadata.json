@@ -1,0 +1,6 @@
+{
+  "name": "Pusat Data Santri",
+  "description": "Sistem administrasi modern dan profesional untuk pengelolaan data santri, galeri pondok, kontak, dan konfigurasi pengaturan pondok pesantren.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
